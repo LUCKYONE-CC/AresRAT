@@ -1,3 +1,5 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/luckyone-cc/aresrat/badge)](https://www.codefactor.io/repository/github/luckyone-cc/aresrat)
+
 # AresRAT
 ## AresRAT is a hobby project, which was not finished. May be further developed
 
